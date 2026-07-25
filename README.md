@@ -122,7 +122,7 @@ Open the project → Run:
 
 Server will start at:
 
-👉 http://localhost:7890
+👉 http://localhost:7880
 
 ---
 
@@ -130,7 +130,7 @@ Server will start at:
 
 Access H2 Console:
 
-👉 http://localhost:7890/h2-console
+👉 http://localhost:7880/h2-console
 
 ```
 JDBC URL : jdbc:h2:file:./data/examdb  
