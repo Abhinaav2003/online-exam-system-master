@@ -148,5 +148,5 @@ This project is **open-source** under the **MIT License**.
 ---
 
 <p align="center">
-<strong>Happy Coding ❤️</strong>
+<strong>Develop by Abhinav Tiwari & Anshu Rajput</strong>
 </p>
