@@ -115,7 +115,7 @@ Open the project → Run:
 
 Server will start at:
 
-👉 http://localhost:7880
+👉 http://localhost:8080
 
 ---
 
