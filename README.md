@@ -10,9 +10,6 @@
 A comprehensive **Online Examination System** built using **Spring Boot, Spring Security, Thymeleaf, Bootstrap 5**, and **JPA/Hibernate**.  
 The platform provides a secure and user-friendly environment for **Admins** and **Students** to manage and take online tests effectively.
 
-✔️ Completely Free  
-✔️ Full Source Code Included
-
 
 
 # 📸 Screenshots
@@ -24,10 +21,6 @@ The platform provides a secure and user-friendly environment for **Admins** and 
 <tr>
 <td align="center"><b>Exam Page (with Pagination)</b></td>
 </tr>
-<tr>
-<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/exampage.png" width="90%"></td>
-</tr>
-
 <tr>
 <td align="center"><b>Admin Dashboard</b></td>
 </tr>
@@ -122,7 +115,7 @@ Open the project → Run:
 
 Server will start at:
 
-👉 http://localhost:7880
+👉 http://localhost:8080
 
 ---
 
@@ -155,5 +148,5 @@ This project is **open-source** under the **MIT License**.
 ---
 
 <p align="center">
-<strong>Happy Coding ❤️</strong>
+<strong>Develop by Abhinav Tiwari & Anshu Rajput</strong>
 </p>
