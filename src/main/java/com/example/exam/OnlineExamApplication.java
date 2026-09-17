@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 @SpringBootApplication
-public class OnlineExamApplication {
+public class OnlineExamApplication { 
 
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineExamApplication.class, args);
