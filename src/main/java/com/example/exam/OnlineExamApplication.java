@@ -12,19 +12,23 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 @SpringBootApplication
 public class OnlineExamApplication { 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		SpringApplication.run(OnlineExamApplication.class, args);
 	}
 
 
 	//  will run once when the application starts
 	@Bean
-	CommandLineRunner createAdminUser(UserRepository userRepository, PasswordEncoder passwordEncoder) {
-		return args -> {
+	CommandLineRunner createAdminUser(UserRepository userRepository, PasswordEncoder passwordEncoder) 
+	{
+		return args -> 
+		{
 			String adminUsername = "admin";
 
 			// Check if the admin user already exists
-			if (userRepository.findByUsername(adminUsername).isEmpty()) {
+			if (userRepository.findByUsername(adminUsername).isEmpty()) 
+			{
 				User adminUser = new User();
 				adminUser.setUsername(adminUsername);
 				// Make sure to use the password encoder
